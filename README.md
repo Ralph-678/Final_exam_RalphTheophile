@@ -9,7 +9,7 @@ Final Exam Project.
 **GitHub repository URL:** https://github.com/Ralph-678/Final_exam_RalphTheophile.git 
 
 **Render application URL/production:** https://final-exam-ralphtheophile-production.onrender.com 
-**Render application URL/staging:** https://final-exam-ralphtheophile-staging.onrender.com 
+**Render application URL/staging:** https://final-exam-ralphtheophile.onrender.com
 
 ---
 
